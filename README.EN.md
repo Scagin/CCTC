@@ -10,6 +10,27 @@ Translated data of classical Chinese:
 
 - Historical Records, by Sima Qian (only a few, 21 for now)
 
+Data format
+
+```json
+[
+    {
+        "title": "",
+        "contents": [
+            {
+                "source": "",
+                "target": ""
+            },
+            {
+                "source": "",
+                "target": ""
+            },
+            ...
+        ]
+    }
+]
+```
+
 Statement
 
 |    |Samples|Max Length|Min Length|Average Length|Median Length|Standard Deviation|
