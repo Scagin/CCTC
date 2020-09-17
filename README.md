@@ -1,6 +1,6 @@
 # CCTC - Classical Chinese Translation Corpus
 
-[English document](./REEADME.EN.md)
+[English document](./README.EN.md)
 
 文言文翻译语料数据集。(构建中)
 
