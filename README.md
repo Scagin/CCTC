@@ -1,6 +1,6 @@
 # CCTC - Classical Chinese Translation Corpus
 
-[English document](.REEADME.EN.md)
+[English document](./REEADME.EN.md)
 
 文言文翻译语料数据集。(构建中)
 
@@ -23,7 +23,7 @@
 
 - 如果您有部分整理好的文言文翻译语料，并且不介意将它开源的话，可以通过直接提交PR的形式进行贡献。
 
-- 如果您认为该项目很有价值，并且愿意支持我不断完善该项目的话，您也可以通过「[支付宝](.static/alipay.jpg)」或者「[微信赞赏码](./static/wechat.jpg)」进行打赏赞助（备注留下您的邮箱）
+- 如果您认为该项目很有价值，并且愿意支持我不断完善该项目的话，您也可以通过「[支付宝](./static/alipay.jpg)」或者「[微信赞赏码](./static/wechat.jpg)」进行打赏赞助（备注留下您的邮箱）
 
 ## 引用
 
