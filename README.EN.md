@@ -1,6 +1,6 @@
 # CCTC - Classical Chinese Translation Corpus
 
-[中文文档](.REEADME.md)
+[中文文档](./README.md)
 
 A classical Chinese translation corpus dataset.(Under construction)
 
