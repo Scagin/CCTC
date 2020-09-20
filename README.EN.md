@@ -25,7 +25,6 @@ Data format
                 "source": "",
                 "target": ""
             },
-            ...
         ]
     }
 ]
@@ -35,8 +34,8 @@ Statement
 
 |    |Samples|Max Length|Min Length|Average Length|Median Length|Standard Deviation|
 |----|:---:|:------:|:-----:|:-------:|:-------:|:-------:|
-|source|4124  |42     |1      |17.381   |14      |11.536    |
-|target|4124  |71     |1      |26.809   |23      |18.125    |
+|source|4499  |42     |1      |17.000   |14      |11.128    |
+|target|4499  |71     |1      |26.174   |23      |17.581    |
 
 ## Contribution
 
