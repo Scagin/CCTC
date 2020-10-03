@@ -8,7 +8,7 @@ A classical Chinese translation corpus dataset.(Under construction)
 
 Translated data of classical Chinese:
 
-- Historical Records, by Sima Qian (only a few, 21 for now)
+- Historical Records, by Sima Qian (only a few, 26 for now)
 
 Data format
 
@@ -34,8 +34,8 @@ Statement
 
 |    |Samples|Max Length|Min Length|Average Length|Median Length|Standard Deviation|
 |----|:---:|:------:|:-----:|:-------:|:-------:|:-------:|
-|source|4499  |42     |1      |17.000   |14      |11.128    |
-|target|4499  |71     |1      |26.174   |23      |17.581    |
+|souece|5212  |42     |1      |16.8462   |14.5      |10.5673    |
+|target|5212  |71     |1      |26.3462   |23.0      |16.6963    |
 
 ## Contribution
 
