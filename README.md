@@ -1,5 +1,10 @@
 # CCTC - Classical Chinese Translation Corpus
 
+[![License](https://img.shields.io/github/license/scagin/cctc)](https://github.com/Scagin/CCTC/blob/master/LICENSE)
+[![Stars](https://img.shields.io/github/stars/scagin/cctc)](#)
+[![Forks](https://img.shields.io/github/forks/scagin/cctc)](#)
+
+
 [English document](./README.EN.md)
 
 文言文翻译、古文翻译 语料数据集。(构建中)
@@ -8,7 +13,7 @@
 
 目前已整理的文言文翻译数据：
 
-- 史记（不全，目前27篇）
+- 史记（29篇）
 
 数据集格式
 
@@ -34,8 +39,8 @@
 
 |    |样本数|最大长度|最小长度|长度平均值|长度中位数|长度标准差|
 |----|:---:|:------:|:-----:|:-------:|:-------:|:-------:|
-|原文|5965  |111    |1      |17.34    |15.0     |11.12    |
-|译文|5965  |182    |2      |28.17    |24.0     |18.62    |
+|原文|7026  |111    |1      |16.02    |15.0     |11.08    |
+|译文|7026  |202    |2      |25.99    |22.0     |18.52    |
 
 ## 贡献
 
