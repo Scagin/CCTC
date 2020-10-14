@@ -9,6 +9,8 @@ A classical Chinese translation corpus dataset.(Under construction)
 Translated data of classical Chinese:
 
 - Historical Records, by Sima Qian (29 for now)
+- LunYu (20 articles)
+- ZhongYong (33 chapters)
 
 Data format
 
@@ -34,8 +36,8 @@ Statement
 
 |    |Samples|Max Length|Min Length|Average Length|Median Length|Standard Deviation|
 |----|:---:|:------:|:-----:|:-------:|:-------:|:-------:|
-|source|7026  |111    |1      |16.02    |15.0     |11.08    |
-|target|7026  |202    |2      |25.99    |22.0     |18.52    |
+|source|7841  |180    |1      |17.67    |15.0     |13.54    |
+|target|7841  |280    |2      |29.20    |24.0     |23.28    |
 
 ## Contribution
 
